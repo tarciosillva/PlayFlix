@@ -1,0 +1,50 @@
+.titleContainer{
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    margin: 0.5rem;
+}
+
+.information{
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    font-size: 1rem;
+    margin: 0.2rem 0 1rem 0.7rem;
+}
+
+.containernerForm{
+    margin: 0.5rem;
+    padding: 0.2rem;
+}
+
+.dataInputContainer{
+    margin-bottom: 2.5rem;
+    background-color: #414141;
+    padding-left: 0.3rem;
+    border-radius: 0.3rem;
+}
+
+.dataInputContainer > input{
+    width: 20rem;
+    padding: 0.3rem;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 0.3rem;
+    margin-left: 0.3rem;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+}
+
+.buttonText{
+    background-color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    border-radius: 0.3rem;
+    font-weight: 600;
+    padding: 0.4rem;
+    border: 0 none;
+    outline: 0;
+}
+
+.buttonText:hover{
+    background-color: #e2e2e2;
+}

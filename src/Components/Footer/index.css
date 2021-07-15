@@ -1,0 +1,37 @@
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1d1d1d;
+}
+
+p{
+    margin: 0;
+}
+
+.iconsContainer, .fContainerInformation{
+    padding: 0.2rem;
+    margin: 0.5rem;
+}
+
+.local, .textAbout{
+    color: #c2c2c2;
+}
+
+.city, .phone, .about{
+    color: #fff;
+}
+
+.containerIconsDes{
+    display: flex;
+    align-items: center;
+}
+
+.iconsFooter{
+    margin: 0.5rem;
+}
+
+.containerIcon{
+    background-color: #3f3f3f;
+    margin: 0.75rem;
+    border-radius: 50%;
+}
